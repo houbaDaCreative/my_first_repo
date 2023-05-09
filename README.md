@@ -1,2 +1,1 @@
-a
-z
+my_first_repo
